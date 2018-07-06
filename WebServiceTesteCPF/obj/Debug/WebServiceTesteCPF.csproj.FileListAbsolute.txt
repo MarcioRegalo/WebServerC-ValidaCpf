@@ -1,0 +1,4 @@
+C:\Users\PIX_06\Desktop\Teste\WebServiceCpf\WebServiceTesteCPF\WebServiceTesteCPF\bin\WebServiceTesteCPF.dll
+C:\Users\PIX_06\Desktop\Teste\WebServiceCpf\WebServiceTesteCPF\WebServiceTesteCPF\bin\WebServiceTesteCPF.pdb
+C:\Users\PIX_06\Desktop\Teste\WebServiceCpf\WebServiceTesteCPF\WebServiceTesteCPF\obj\Debug\WebServiceTesteCPF.dll
+C:\Users\PIX_06\Desktop\Teste\WebServiceCpf\WebServiceTesteCPF\WebServiceTesteCPF\obj\Debug\WebServiceTesteCPF.pdb
